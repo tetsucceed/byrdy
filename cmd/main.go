@@ -1,1 +1,9 @@
-package byrdy
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("Noop")
+}
